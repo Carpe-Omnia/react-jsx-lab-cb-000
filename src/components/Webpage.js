@@ -2,8 +2,8 @@ export class Webpage extends React.Component {
   render() {
     return (
       <h1> The world&#39s coolest webpage </h1>
-      {fillerText}<br />
-      {fillerText} <br />
+      {FillerText}<br />
+      {FillerText} <br />
     )
   }
 }
